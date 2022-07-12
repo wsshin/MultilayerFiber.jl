@@ -1,4 +1,4 @@
-name = "StepIndexFiber"
+name = "MultilayerFiber"
 uuid = "5163218f-e962-4d1b-9436-42cf34da72ec"
 authors = ["Wonseok Shin <wsshin97@gmail.com> and contributors"]
 version = "0.1.0"

@@ -1,6 +1,6 @@
-using StepIndexFiber
+using MultilayerFiber
 using Test
 
-@testset "StepIndexFiber.jl" begin
+@testset "MultilayerFiber.jl" begin
     # Write your tests here.
 end
